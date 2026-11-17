@@ -1,4 +1,4 @@
-<img src="night_Almaty.png" width="100%" alt="Aliaskar GitHub Banner" />
+<img src="banner.png" width="100%" alt="Aliaskar GitHub Banner" />
 # Hi, I'm Aliaskar 👋
 
 **Computer Science student at KBTU | AI & Software Development**
