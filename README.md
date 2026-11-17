@@ -12,9 +12,6 @@ Based in Almaty, Kazakhstan. I enjoy building practical applications, exploring 
 
 ## Selected projects
 
-**[PokerVisionAI](https://github.com/Aliaskar01/PokerVisionAI)** · *computer vision / AI*  
-Exploring AI and computer vision for poker-related applications.
-
 **[Computer Vision](https://github.com/Aliaskar01/Computer-Vision)** · *image processing*  
 Computer vision coursework and experiments with image processing techniques.
 
