@@ -41,4 +41,4 @@ A student-focused application project.
 
 ## Contact
 
-[GitHub](https://github.com/Aliaskar01) [Telegram]((https://t.me/alIk5001))· Almaty, Kazakhstan 
+[GitHub](https://github.com/Aliaskar01) [Telegram](https://t.me/alIk5001)· Almaty, Kazakhstan 
